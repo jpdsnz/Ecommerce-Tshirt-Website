@@ -1,0 +1,97 @@
+.jumbotron {
+	background-size: cover;
+	background-image: url(images/bg2.jpg);
+	background-position: 48% 46%;
+	background-color: #000000;
+	margin-top: -5em;	
+}
+
+/*
+.jumbotext {
+	color: #282828;
+}
+
+*/
+
+/* select box styles for pricing CURRENTLY NOT USING 
+.select {
+	border: 1px solid #282828;
+	background: #444;
+	color: #FFF;
+}
+
+*/
+
+.alignLeft {
+	float: left;
+	clear: right;
+}
+.moveRight {
+	float: right;
+
+
+}
+
+
+.animateimg:hover {
+	-webkit-animation: bounceout 1s;
+    animation: bounce 1s;
+	
+}
+
+.a:hover {
+	-webkit-animation: bounceout 1s;
+    animation: bounce 1s;
+	
+}
+
+h2 {
+	font-family: 'Fjalla One', sans-serif;
+	text-transform: uppercase;
+	text-size: 2em;
+}
+
+.form-group {
+	width: 85%;
+}
+
+ .input-lg {
+  font-size: 32px;
+}
+
+
+.form-control {
+	border:none;
+	background-color: #232323;
+	color: #FFF;
+	
+}
+
+.form-control:focus {
+	box-shadow: none;
+	border-color: #FFF;;
+}
+
+@media screen and (max-width:767px){
+	
+	.jumbotron {
+	margin-top: -5em;	
+}
+	
+	
+}
+
+
+
+@media screen and (max-width:490px){
+
+	.jumbotron {
+		margin-top: 1em;	
+	}
+
+
+
+
+
+
+}
