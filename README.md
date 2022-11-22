@@ -1,2 +1,2 @@
 # Ecommerce-Tshirt-Website
- HTML, CSS, Boostrap Framework based website for T-shirt sales
+ HTML, CSS, JavaScript, Boostrap Framework based website for T-shirt sales
